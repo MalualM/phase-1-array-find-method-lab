@@ -35,6 +35,7 @@ const record = [
   { year: "2013", result: "L"},
   //...
 ]
+
 ```
 
 Write a function called `superbowlWin()` in `index.js`:
